@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Sortei Grupo FOME</title>
+</head>
+<body>
+    <div class="corpo">
+        <div>
+            <img src="Logo FOME (Branco).png" alt="logo do grupo" class="logo">
+        </div>
+        <div class="conteudo">
+            <h1>Sorteio Artístico</h1>
+            <div class="lista_de_artes"> 
+                <a onclick="abrir_arte_1()" href="#sorteio1">Arte 1</a>
+                <a onclick="abrir_arte_2()" href="#sorteio2">Arte 2</a>
+                <a onclick="abrir_arte_3()" href="#sorteio3">Arte 3</a>
+                <a onclick="abrir_arte_4()" href="#sorteio4">Arte 4</a>
+                <a onclick="abrir_arte_5()" href="#sorteio5">Arte 5</a>
+                <a onclick="abrir_arte_6()" href="#sorteio6">Arte 6</a>
+            </div>
+            <!-- Painel arte 1-->
+            <div id="sorteio1">
+                <img src="arte1.jpeg" alt="Foto da arte 1">
+                <a onclick="sorte_1()" class="botao_sorte">sorteio</a>
+                <div id="resultado_1">
+                    <p id="nome_vencedor_1"></p>
+                </div>
+            </div>
+            <!-- Painel arte 2-->
+            <div id="sorteio2">
+                <img src="arte2.jpeg" alt="Foto da arte 2">
+                <a onclick="sorte_2()" class="botao_sorte">sorteio</a>
+                <div id="resultado_2" class="resultado">
+                    <p id="nome_vencedor_2"></p>
+                </div>
+            </div>
+            <!-- Painel arte 3-->
+            <div id="sorteio3">
+                <img src="arte 3.jpeg" alt="Foto da arte 3">
+                <a onclick="sorte_3()" class="botao_sorte">sorteio</a>
+                <div id="resultado_3">
+                    <p id="nome_vencedor_3"></p>
+                </div>
+            </div>
+            <!-- Painel arte 4-->
+            <div id="sorteio4">
+                <img src="arte4.jpeg" alt="Foto da arte 4">
+                <a onclick="sorte_4()" class="botao_sorte">sorteio</a>
+                <div id="resultado_4">
+                    <h3>O numero sorteado foi</h3>
+                    <p id="nome_vencedor_4"></p>
+                </div>
+            </div>
+            <!-- Painel arte 5-->
+            <div id="sorteio5">
+                <img src="arte5.jpeg" alt="Foto da arte 5">
+                <a onclick="sorte_5()" class="botao_sorte">sorteio</a>
+                <div id="resultado_5">
+                        <h3>O numero sorteado foi</h3>
+                        <p id="nome_vencedor_5"></p>
+                </div>
+            </div>
+            <!-- Painel arte 6-->
+            <div id="sorteio6">
+                <img src="arte6.jpeg" alt="Foto da arte 6">
+                <a onclick="sorte_6()" class="botao_sorte">sorteio</a>
+                <div id="resultado_6">
+                    <h3>O numero sorteado foi</h3>
+                    <p id="nome_vencedor_6"></p>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</body>
+<footer>
+    <p>@Todos direitos reservados ao grupo F.O.M.E</p>
+</footer>
+<script src="script.js"></script>
+</html>
