@@ -115,3 +115,9 @@ footer {
     display: flex;
     justify-content: center;
 }
+
+
+.vencedor {
+    font-weight: bolder;
+    font-size: x-large;
+}

@@ -118,7 +118,7 @@ function sorte_1() {
     } if (numero_sorte == 5) {
         nome_ganhador = 'Elaine Alba';
     } if (numero_sorte == 6) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Jully Rodrigues';
     } if (numero_sorte == 7) {
         nome_ganhador = 'Maria Virginia';
     } if (numero_sorte == 8) {
@@ -209,7 +209,7 @@ function sorte_1() {
         nome_ganhador = 'Emmanuel';
     } 
 
-    nome1.innerHTML = `<h3>O numero sorteado foi</h3><br>O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
+    nome1.innerHTML = `O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
     document.getElementById('resultado_1').style.display='block';
 }
 
@@ -246,15 +246,15 @@ function sorte_2() {
     } if (numero_sorte == 10) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 11) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Michaella Betâmio';
     } if (numero_sorte == 12) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Michaella Betâmio';
     } if (numero_sorte == 13) {
         nome_ganhador = 'André Gimenes';
     } if (numero_sorte == 14) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 15) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Maira Banzer';
     } if (numero_sorte == 16) {
         nome_ganhador = 'Vânia Bonesso';
     } if (numero_sorte == 17) {
@@ -268,7 +268,7 @@ function sorte_2() {
     } if (numero_sorte == 21) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 22) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = ' Erika Chovan';
     } if (numero_sorte == 23) {
         nome_ganhador = 'Nuno José';
     } if (numero_sorte == 24) {
@@ -290,11 +290,11 @@ function sorte_2() {
     } if (numero_sorte == 32) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 33) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = ' Erika Chovan';
     } if (numero_sorte == 34) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 35) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Maira Banzer';
     } if (numero_sorte == 36) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 37) {
@@ -304,7 +304,7 @@ function sorte_2() {
     } if (numero_sorte == 39) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 40) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Maira Banzer';
     } if (numero_sorte == 41) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 42) {
@@ -312,7 +312,7 @@ function sorte_2() {
     } if (numero_sorte == 43) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 44) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Maira Banzer';
     } if (numero_sorte == 45) {
         nome_ganhador = 'Milton Filho';
     } if (numero_sorte == 46) {
@@ -324,10 +324,10 @@ function sorte_2() {
     } if (numero_sorte == 49) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 50) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Michaella Betâmio';
     } 
 
-    nome2.innerHTML = `<h3>O numero sorteado foi</h3><br>O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
+    nome2.innerHTML = `O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
     document.getElementById('resultado_2').style.display='block';
 }
 
@@ -382,7 +382,7 @@ function sorte_3() {
     } if (numero_sorte == 19) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 20) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'José Lima';
     } if (numero_sorte == 21) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 22) {
@@ -445,7 +445,7 @@ function sorte_3() {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } 
 
-    nome3.innerHTML = `<h3>O numero sorteado foi</h3><br>O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
+    nome3.innerHTML = `O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
     document.getElementById('resultado_3').style.display='block';
 }
 
