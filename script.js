@@ -396,7 +396,7 @@ function sorte_3() {
     } if (numero_sorte == 26) {
         nome_ganhador = 'Gislene(Wg Park)';
     } if (numero_sorte == 27) {
-        nome_ganhador = 'Ninguém sorteado, tente outro';
+        nome_ganhador = 'Daniella Stelmasuk';
     } if (numero_sorte == 28) {
         nome_ganhador = 'Paola';
     } if (numero_sorte == 29) {
