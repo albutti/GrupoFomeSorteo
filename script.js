@@ -200,11 +200,11 @@ function sorte_1() {
     } if (numero_sorte == 46) {
         nome_ganhador = 'Emmanuel';
     } if (numero_sorte == 47) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Emmanuel';
     } if (numero_sorte == 48) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Emmanuel';
     } if (numero_sorte == 49) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Emmanuel';
     } if (numero_sorte == 50) {
         nome_ganhador = 'Emmanuel';
     } 
@@ -268,13 +268,13 @@ function sorte_2() {
     } if (numero_sorte == 21) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 22) {
-        nome_ganhador = ' Erika Chovan';
+        nome_ganhador = 'Erika Chovan';
     } if (numero_sorte == 23) {
         nome_ganhador = 'Nuno José';
     } if (numero_sorte == 24) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 25) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Maira Banzer';
     } if (numero_sorte == 26) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 27) {
@@ -290,7 +290,7 @@ function sorte_2() {
     } if (numero_sorte == 32) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 33) {
-        nome_ganhador = ' Erika Chovan';
+        nome_ganhador = 'Erika Chovan';
     } if (numero_sorte == 34) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 35) {
@@ -344,13 +344,13 @@ function sorte_3() {
     } 
 
     if (numero_sorte == 1) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Nilce';
     } if (numero_sorte == 2) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Daniela Pezzuol';
     } if (numero_sorte == 3) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Lidiane Reis';
     } if (numero_sorte == 4) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Aline Reis';
     } if (numero_sorte == 5) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 6) {
@@ -362,9 +362,9 @@ function sorte_3() {
     } if (numero_sorte == 9) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 10) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Lidiane Reis';
     } if (numero_sorte == 11) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Eliete dos Reis';
     } if (numero_sorte == 12) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 13) {
@@ -374,11 +374,11 @@ function sorte_3() {
     } if (numero_sorte == 15) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 16) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Adi';
     } if (numero_sorte == 17) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Cibele';
     } if (numero_sorte == 18) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Eduardo Reis';
     } if (numero_sorte == 19) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 20) {
@@ -392,31 +392,31 @@ function sorte_3() {
     } if (numero_sorte == 24) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 25) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Marcia';
     } if (numero_sorte == 26) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Gislene(Wg Park)';
     } if (numero_sorte == 27) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 28) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Paola';
     } if (numero_sorte == 29) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Lidiane Reis';
     } if (numero_sorte == 30) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 31) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 32) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Eduardo Reis';
     } if (numero_sorte == 33) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Cibele';
     } if (numero_sorte == 34) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Ana';
     } if (numero_sorte == 35) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Paola';
     } if (numero_sorte == 36) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 37) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Daniela Pezzuol';
     } if (numero_sorte == 38) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 39) {
@@ -428,9 +428,9 @@ function sorte_3() {
     } if (numero_sorte == 42) {
         nome_ganhador = 'Miguel Menezes';
     } if (numero_sorte == 43) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Tereza';
     } if (numero_sorte == 44) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Cesar';
     } if (numero_sorte == 45) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 46) {
@@ -440,9 +440,9 @@ function sorte_3() {
     } if (numero_sorte == 48) {
         nome_ganhador = 'Ninguem sorteado, tente outro';
     } if (numero_sorte == 49) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Alba Brito';
     } if (numero_sorte == 50) {
-        nome_ganhador = 'Ninguem sorteado, tente outro';
+        nome_ganhador = 'Tereza';
     } 
 
     nome3.innerHTML = `O numero vendedor é: ${numero_sorte}<br>O nome do vencedor é: ${nome_ganhador}`;
