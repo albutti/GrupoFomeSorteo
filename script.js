@@ -436,7 +436,7 @@ function sorte_3() {
     } if (numero_sorte == 46) {
         nome_ganhador = 'Ninguém sorteado, tente outro';
     } if (numero_sorte == 47) {
-        nome_ganhador = 'Ninguém sorteado, tente outro';
+        nome_ganhador = 'Mônica';
     } if (numero_sorte == 48) {
         nome_ganhador = 'Ninguém sorteado, tente outro';
     } if (numero_sorte == 49) {
